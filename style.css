@@ -1,0 +1,71 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+        background: url("https://rossaprimavera.ru/static/files/79f128a0ab93.jpg");
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(204, 202, 202);
+}
+a:hover{
+    background-color: rgb(204, 202, 202);
+    padding: 10px;
+    transition: ease-in-out 1s;
+}
+.cont{
+    background-color: white;
+           margin-left: auto;
+   margin-right: auto;
+   width: 550px;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    font-size: 16px;
+}
+
+.wer2{
+    margin-left: auto;
+}
+.gig2{
+    text-align: right;
+    margin-top: -400px;
+}
+.text{
+    font-size: 17px;
+}
+.a:hover{
+    color: black;
+}
+img{
+    width: 250px;
+}
+.wer3:hover{
+    color: black;
+}
+.wer3{
+    text-align: center;
+}
+.fo{
+    font-size: 19px;
+}
+.f{
+    background-color: wheat;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+}
+.f:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 20px;
+}
+footer{
+    background-image: 
+    linear-gradient(to left bottom, DodgerBlue, SpringGreen);
+    border-radius: 15px;
+}
+.fly{
+    font-size: 30px;
+}
