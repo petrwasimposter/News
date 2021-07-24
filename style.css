@@ -29,6 +29,7 @@ h2{
 
 .wer2{
     margin-left: auto;
+    background-color: transparent;
 }
 .gig2{
     text-align: right;
@@ -45,6 +46,7 @@ img{
 }
 .wer3:hover{
     color: black;
+    background-color: transparent;
 }
 .wer3{
     text-align: center;
